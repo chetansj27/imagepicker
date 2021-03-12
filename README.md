@@ -17,7 +17,7 @@ allprojects {
 }
 ```
 
-### Add the dependency
+### Add the dependency([see latest version](https://jitpack.io/#csj5483/imagepicker))
 
 ```gradle
 dependencies {
